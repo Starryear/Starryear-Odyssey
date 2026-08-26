@@ -1,5 +1,22 @@
 Starryear-Odyssey-Photo-Diptych
-本次更新说明（相较前一版）
+V5 清洁史诗版更新说明（26 AUG 2026）
+
+1. 视觉方向更新
+- 史诗感改由尺度、围困、路径、重复、材质重量与远近关系建立。
+- 明确禁止烟尘罩层、污迹、喷溅、做旧划痕、假胶片损伤、无来源碎屑与过量颗粒。
+- 默认明暗检查收紧为近黑少于 25%、死黑少于 8%；失败时只重做下联并抬升源色阴影。
+- 画面优先少而准、结构清楚、关键元素可追溯，保留宽广可读的中间调。
+
+2. 网站更新
+- 新增完整 GitHub Pages 视觉网站与 21 张图像画廊。
+- 首屏及中段均提供明显的 Skill ZIP 与 TXT 完整口令下载入口。
+- 新增留言窗口，填写内容后可直接带入仓库 GitHub Issue 提交页。
+
+3. 下载文件更新
+- `Starryear-Odyssey-Skill.zip` 已替换为 V5 清洁史诗版。
+- 新增 `odyssey-photo-diptych-final-v5.zip` 和 `Starryear-Odyssey-完整口令-v5-清洁史诗版.txt`。
+
+以下保留原有完整更新记录：
 
 1. 作品数量补齐
 - 从原总览的 9 张补齐为 16 张完整作品。
@@ -46,4 +63,3 @@ Starryear-Odyssey-Photo-Diptych
 - 色调与死黑检测：analyze_tone.py
 - 原图像素保持、自然交界与文字排版：compose_diptych.py
 - 最终版已逐张验证上联原图像素一致性。
-

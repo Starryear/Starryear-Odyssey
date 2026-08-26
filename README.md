@@ -1,14 +1,20 @@
 # Starryear-Odyssey
 
-星年奥德赛：原始摄影证据 ×《奥德赛》神话情节 × 当代抽象艺术的上下双联画 Skill。
+星年奥德赛：原始摄影证据 ×《奥德赛》神话情节 × 当代抽象艺术的上下双联画 Skill。当前版本为 **V5 清洁史诗版**。
 
 作品网站：https://starryear.github.io/Starryear-Odyssey/
 
 ## 使用
 
-下载 `Starryear-Odyssey-Skill.zip` 安装 Skill；不支持 Skill 的平台，可使用 `【003】Starryear-Odyssey 星年奥德赛.txt` 中的完整长口令。
+下载 [`Starryear-Odyssey-Skill.zip`](Starryear-Odyssey-Skill.zip) 安装 Skill；不支持 Skill 的平台，可直接使用 [`Starryear-Odyssey-完整口令-v5-清洁史诗版.txt`](Starryear-Odyssey-完整口令-v5-清洁史诗版.txt)。
 
-每张作品采用统一的黑色档案画布：上方完整保留原始照片，下方生成与原图色彩和结构对应的《奥德赛》抽象叙事画面，并以自然暗场完成上下过渡。
+每张作品上方保留原始摄影证据，下方生成与原图色彩、数量、方向和空间压力对应的《奥德赛》抽象叙事画面。V5 以尺度、路径和材质重量建立史诗感，主动减少烟尘、脏污、装饰性颗粒、无来源碎屑和大面积死黑。
+
+## 网站
+
+作品网站收录“奥德赛”文件夹中的完整视觉档案，提供醒目的 Skill / TXT 下载入口，并通过 GitHub Issue 提供留言与建议窗口：
+
+https://starryear.github.io/Starryear-Odyssey/
 
 ## 作者
 
