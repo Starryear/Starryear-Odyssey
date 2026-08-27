@@ -1,247 +1,295 @@
 Starryear-Odyssey-Photo-Diptych
 星年奥德赛双联画
 作者：Starryear
-版本：V5 清洁史诗版（26 AUG 2026）
 
 适用方式：上传一张拥有合法使用权的照片，然后复制以下【完整口令】。如果平台无法一次完成“生成下联 + 原图拼接 + 正确排字”，必须分两步执行：先生成完全无字的抽象下联，再用可靠排版或拼图工具完成最终双联画。
 
 ====================
 【完整口令｜从这里开始复制】
 
-请以我本次上传的照片为唯一现实证据，创作一张“原始摄影 ×《奥德赛》神话情节 × 当代抽象艺术”的上下双联画。作品不是普通滤镜、电影海报、照片插画化、神话角色插画或原图油画化，而是先理解照片，再为它寻找最契合的《奥德赛》故事章节，最后把照片中的数量、距离、方向、光线、色彩与空间压力重构为一幅原创抽象画。
+Starryear-Odyssey-Photo-Diptych
+星年奥德赛双联画
+Author: Starryear
+Version: V5 — Clean Epic Edition (26 AUG 2026)
 
-本版采用“清洁史诗”方向：史诗感必须来自尺度、围困、路径、重复、材质重量和远近关系，而不是烟尘、脏污、颗粒、划痕、黑金滤镜或无来源的碎屑。画面要少而准、结构清楚、关键元素可追溯，大片材质主要由可读中间调承载。
-
-一、最终结构
-
-最终只输出一张置于统一深黑档案画布上的完整上下双联画：
-
-1. 上半部分：用户上传的原始照片。
-2. 下半部分：根据原图证据与《奥德赛》情节生成的原创满幅抽象画。
-
-上下两部分直接连接，不加白色分割线或明显边框。完整双联画外部必须有统一的近黑色档案画布：四周保留约为原图宽度 2%—4% 的克制黑边，底部保留约为原图宽度 8%—10% 的黑色标题带。黑底建议使用接近 #0F0F0E、#121211 的暖黑或炭黑，不要使用带蓝紫倾向的商业海报渐变。黑底只属于外围排版，不得覆盖、压暗或改变上联原图，也不能成为下联大面积死黑的借口。
-
-交界处可以在下联最上方使用原照片底边已有的颜色、明暗、方向和纹理做短距离自然过渡，但过渡只能发生在下联内部，绝不能覆盖、柔化或改变上联的任何照片像素。
-
-二、上联必须保持原图不变
-
-上联必须直接使用本次上传的原始照片，不得用 AI 生成相似照片替代，也不得：
-
-- 裁剪、拉伸、变形或改变画幅比例；
-- 重绘、替换主体、修改人物或动物；
-- 改变曝光、对比度、色调、饱和度或白平衡；
-- 添加电影调色、颗粒、光晕、烟雾、烛火或其他效果；
-- 添加标题、编号、水印、边框或装饰。
-
-这里禁止的是覆盖在原照片内部的文字、边框和装饰；照片外部统一的近黑档案画布与底部标题带是最终排版的一部分，必须保留。
-
-原图是现实世界的证据，也是作品叙事起点。若平台不能保证原图不变，应先单独生成下联，再使用确定性拼图工具把原图与下联拼接。
-
-三、生成前必须完成照片分析
-
-请先在内部观察并记录，不要把分析文字放进成图：
-
-1. 主要主体：人物、动物、建筑、水面、道路、树木、火焰、门洞、船只或其他物体。
-2. 数量与关系：孤立、对望、围困、追逐、聚集、等待、重复、穿越、返回或左右夹击。
-3. 主导方向：向前、回望、上升、下降、横越、旋转、汇聚、逃离或停滞。
-4. 空间结构：开阔海面、狭窄通道、洞穴、宫殿、森林、岛屿、门槛、深渊、围栏或被占据的公共空间。
-5. 光线结构：光从哪里进入，最亮区域、阴影范围、反射路径，以及属于自然光、烛火光还是阴天临界光。
-6. 色彩证据：至少提取主色、阴影色、中间调、高光色和原图真实存在的强调色。
-7. 情绪压力：诱惑、危险、遗忘、守候、预言、牺牲、归乡、孤独、暴风雨前的压迫或面对命运时的平静。
-
-四、选择《奥德赛》情节
-
-选择必须由至少两到三项照片证据共同支持。不要因为照片里有水就自动选择航海，不要为了戏剧性强行加入怪物，也不要把所有著名元素堆在同一张作品里。
-
-可参考：
-
-- ATHENA KEEPS WATCH：孤独或警觉的动物、远处人物、俯瞰、观察者、单一眼点。
-- AFTER TROY：港口、城墙、桅杆、人群、离开的道路、战争余迹或巨大木质结构。
-- LOTUS SHORE：缓慢水流、安静聚集、漂浮节点、梦境般停滞、遗忘与停留。
-- CYCLOPS CAVE：洞口、圆形结构、巨大单体、一个高对比眼环、小主体被包围。
-- BAG OF WINDS：云层、气流、旋涡、飘动织物、放射线和失控方向。
-- CIRCE'S ISLAND：动物、花园、森林、华丽室内、诱惑性暖光和身份变化。
-- SIREN OMENS：鸟群、声音般重复的线、远处召唤、无法靠近的目标。
-- BETWEEN TWO MONSTERS：狭窄通道、左右夹击、漩涡、洞穴和触须般路径。
-- CATTLE OF THE SUN：成群动物、强烈阳光、金色田野、被禁止触碰的对象。
-- DESCENT TO THE UNDERWORLD：火焰、黑暗、水面倒影、枯树、地下空间、烟雾与红黑色调。
-- CALYPSO'S ISLAND：孤立人物、美丽但无法离开的空间和漫长停留。
-- HALL OF SUITORS：密集人群、重复座位、大厅、宴席或被占领的公共空间。
-- PENELOPE'S VIGIL / PENELOPE'S LOOM：窗户、织物、蛛网、时钟、空房间、长期等待和反复织拆。
-- THE HIDDEN KING：门口、背影、遮挡人物、无人注意的观察者或隐藏归来。
-- THE BOW TRIAL：弧线、张力线、排列目标和突然释放的方向。
-- THE LONG RETURN：海岸、道路、航标、远行者、孤独船只和明确归乡路径。
-
-若没有具体章节足够准确，可使用 THE WAITING HOUSE、A DANGEROUS PASSAGE、BEFORE THE HOMECOMING、THE SEA REMEMBERS 等宽泛但真实的命题。
-
-五、下联的抽象转译
-
-下联不能把照片缩小重画，也不能只是油画、水彩、版画或滤镜效果。请把物体转换为关系：
-
-- 水面、道路、栏杆或地面 → 贯穿画面的潮汐色带、航行路径、弧线或层叠平面。
-- 人物或动物 → 小型竖向标记、椭圆、种子形节点、孤立色块、目光或方向坐标。
-- 建筑与门洞 → 深色矩形、重复拱形、垂直塔形、层叠平面和被占据的间隔。
-- 树干、桅杆、栏杆或人群 → 间距不均的竖线、细杆、点阵与密度变化。
-- 火焰 → 破碎上升色带、暗红裂缝、骨白热边、青铜节点和烟黑路径。
-- 漩涡、巨口或危险海峡 → 未闭合圆环、弯曲夹层、吞噬性但有纹理的深色孔洞。
-- 眼睛或观察者 → 一个高对比焦点、环形结构或被其他元素围绕的孔隙。
-- 倒影 → 缩短、变淡、错位或断裂的垂直回声。
-- 群体 → 疏密变化的重复模块，禁止机械整齐排列。
-- 光影 → 对角切面、长条光带、断裂网格或倾斜结构。
-
-动物只保留真实数量、间距、姿态、目光或方向，不要把龟壳、毛皮、眼睛、爪子或完整轮廓放大成装饰中心。除非照片与情节都不可替代地需要，否则“壳纹中心图案”属于失败结果。
-
-六、《奥德赛》标志性母题
-
-每张作品可以加入一到三个与所选情节严格对应的母题，但必须融合进照片已有结构，不能像贴纸一样浮在表面：
-
-- 特洛伊木马：巨大、粗粝、带肋骨感的木质体量或城门般剪影；适合启程、战争余迹、港口和巨大建筑结构。
-- 独眼巨人：一个巨大的不完整眼环、洞穴孔隙或单一高对比圆点。
-- 卡律布狄斯：吞噬性的旋涡、下沉环流和被拖拽的路径。
-- 斯库拉：六个不等高、不等距的攻击向量、齿状楔形或两侧逼近；不要画完整怪物。
-- 塞壬：声音般的重复细线、鸟形碎片或远处召唤点；不要画奇幻女妖。
-- 佩涅洛佩织机：经纬线、反复织拆的断线、等待中心和不闭合网格。
-- 弓箭试炼：巨大弧线、拉力、排列目标与突然释放的方向。
-- 冥界：下降路径、暗河、不完整门洞、被火照亮的烟、石和骨白热边。
-
-禁止无依据地添加希腊神庙、头盔、盔甲、长矛、海神叉、战船或多个互相冲突的著名符号。
-
-七、颜色必须与原图对应
-
-下联的颜色不是固定模板。请让约 70%—85% 的面积来自原照片主色、中间调与阴影色，约 10%—25% 来自原图高光，神话强调色通常不超过 5%—10%。原图若有醒目的红、橙、绿、金或蓝，应优先把它用作航标、危险信号、眼点、裂缝或光源。
-
-禁止为了“史诗感”把所有照片统一调成蓝橙或黑金。日景保留天空、水面、石头、植物与空气距离；室内和夜景可以使用烛火，但仍必须保留原图的色彩身份。
-
-八、烛火是重要叙事光源，但不是橙色滤镜
-
-当场景允许时，加入“奥德赛余烬”：蜂蜡金、火盆橙、烧赭、暗红或氧化青铜，可以从原图可解释的门洞、裂缝、拱形孔洞、绳结、木肋、节点、烟雾缝隙或水面反光中出现。
-
-烛火必须照亮周围材质，让观者看到石材、木材、绳索、烟雾、织物、金属或水面反射，而不是几颗橙色光点漂浮在大片黑色里。使用一个主要光源和最多三个微弱回声，带有可信的明暗衰减。
-
-根据照片选择一种曝光模式：
-
-1. 烛火模式：洞穴、宫殿、冥界、等待之屋、夜间门槛。保留可读的石、木、烟、水中间调；除非原图本身有同等黑场，近黑面积尽量少于 25%，完全死黑尽量少于 8%。
-2. 自然光模式：海岸、海面、岛屿、道路、花园和白天远行。保留淡天空、钢蓝海面、日照石面、自然绿色与空气透视；余烬只能作为小型叙事标点。
-3. 阴天/临界光模式：雾、森林、玻璃反射、等待和时间停滞。保持宽广可读的中间调与一个受控的光线开口。
-
-如果原图本身是高调冷色，增加烛火会明显破坏色彩逻辑，可以不用烛火，但不能因此制造死黑。
-
-九、下联构图密度
-
-下联必须形成完整视觉世界：
-
-- 至少一个主导的大型结构；
-- 两到四组中型节奏；
-- 少量微小节点建立方向和深度；
-- 保留原图的不对称关系；
-- 视线有清楚的进入点、张力或危险区域、离开方向；
-- 所有区域参与叙事，但允许有意义的停顿和呼吸感。
-
-禁止把所有元素居中、平均分布、机械对称，或只在中央放一个过小图形而让其他位置完全空白。
-
-同时禁止用装饰性烟尘、飞灰、喷溅、做旧划痕、假胶片损伤、密集碎石和过量颗粒填满画面。真实材质可以有纹理，但纹理必须克制、干净，并服务于石、木、金属、织物、水和纸张的重量感。
-
-十、16 幅实际作品形成的判断参考
-
-以下案例用于学习“怎样从照片证据推导情节与形式”，不是固定模板。处理新照片时必须重新分析，不能复制案例构图。
-
-1. 桥、水面、笔直栏杆与远处车辆 → THE LONG RETURN。把栏杆转成归乡航线，把桥梁横梁转成命运门槛，用水面暖反光作为返航灯；自然光与少量余烬并存。
-2. 白墙、层叠屋檐、枯枝与门洞 → PENELOPE'S VIGIL。把屋檐阶梯转成织机层级，把枯枝转成未完成经纬线，让门洞出现少量蜂蜡金；阴天临界光。
-3. 红砖大厅、重复拱门、台阶和树木包围 → HALL OF SUITORS。把重复门洞和台阶转成被占据的厅堂节奏，以密集节点表示求婚者；烛火照亮石材而不是沉入黑底。
-4. 夜间庙宇、灯笼、密集火光和深蓝天空 → DESCENT TO THE UNDERWORLD。把火点转成下降仪式、烟柱和暗河入口；保留深蓝与木褐，火光揭示烟、木和石。
-5. 溪水、岩石、两只龟和漂浮小点 → LOTUS SHORE。两只龟只转成两个种子形坐标，水流转成缓慢色带，漂浮点转成遗忘节点；禁止放大龟壳纹样。
-6. 海岸、岩石、红色栏杆和三个人物 → BETWEEN TWO MONSTERS。红栏杆转成危险边界，岩岸两侧转成斯库拉的压迫与卡律布狄斯漩涡，人物成为穿越节点；自然海光为主。
-7. 分叉铁轨、站台、列车和黄色信号 → A DANGEROUS PASSAGE。轨道转成命运分叉，黄色灯成为唯一导航节点，架空线形成张力网；阴天临界光。
-8. 森林、三座亭子和孤立坐姿人物 → CIRCE'S ISLAND。亭顶重复转成诱惑性岛屿节点，树林形成封闭而美丽的停留空间；绿色自然光配少量暖金。
-9. 石群中央喷泉、圆形水柱与高对比焦点 → CYCLOPS CAVE。喷泉和石圈转成巨大不完整眼环与洞穴光束；不要完整画巨人。
-10. 海边儿童、远船、长堤和巨大横向结构 → AFTER TROY。堤岸和船体转成带肋骨感的巨型木马余迹与启程方向；保持淡天空和钢蓝海面。
-11. 蛛网、单一中心与绿色虚化背景 → PENELOPE'S LOOM。网线转成反复织拆的经纬系统，中心只保留一个克制金色等待结；不画蜘蛛。
-12. 钟楼、玻璃反射、斜坡走廊与树枝包围 → THE WAITING HOUSE。钟楼转成小型时间标记，玻璃层转成反复等待的透明平面，斜光成为蜂蜡通道。
-13. 秋林、前景落叶、一个近人物和四个远行者 → LOTUS SHORE。保留一与四的数量关系，落叶转成漂移膜层，人物成为停留与离开的节点；自然秋光。
-14. 松鼠沿树干向下、单一警觉眼神和大面积树皮 → ATHENA KEEPS WATCH。树干成为主导垂直体，动物只留下一个观察眼点和向下方向；禁止画完整松鼠或猫头鹰。
-15. 浅色历史建筑、中央塔楼、重复拱门与密集车辆 → HALL OF SUITORS。塔楼成为被占据的权力轴，车辆转成不整齐的密集模块，拱门中出现局部蜂蜡光；保持原图浅灰粉色。
-16. 火焰、炭块、橙红热边与黑色背景 → DESCENT TO THE UNDERWORLD。火焰转成上升膜层与下降暗河，不完整门洞表示冥界阈值；必须让火照亮炭、烟和岩面，控制死黑。
-
-十一、英文标注与可靠排版
-
-先生成完全无字的抽象下联，再用可靠排版或拼图工具把上下双联画置于统一近黑画布，并在底部黑色标题带加入：
-
-1. 一个简洁编号，例如 NO. 015。
-2. 一个日期，例如 23 AUG 2026。
-3. 一个拼写正确、两到四词的英文情节名称。
-
-除这三项外，不加入演员、导演、电影名称、地点、相机参数、额外文案、水印或伪文字。编号与日期使用较小的灰金色或暖灰色，英文情节名使用清晰骨白色；全部左对齐，保持相同边距。标题必须在提交前逐字核对。
-
-十二、失败检查与重做条件
-
-出现以下任一问题，请只重做下联，不要改变上联照片：
-
-- 下联只是把照片重新画了一遍或套了绘画滤镜；
-- 主要颜色与原图无关；
-- 大面积死黑，烛火没有照亮任何材质；
-- 画面被烟尘、污迹、颗粒、划痕或无来源碎屑弄脏；
-- 只出现一个孤立中心图标，其他区域没有组织；
-- 神话符号像贴纸、纪念品或游戏怪物；
-- 龟壳、眼睛、毛皮等动物局部被放大成俗气装饰；
-- 同时堆入木马、独眼巨人、漩涡、神庙等互不相关元素；
-- 上联被裁切、重绘、调色或覆盖；
-- 标题拼写错误、出现乱码、伪文字或多个冲突标题。
-
-十三、最终检查
-
-提交前确认：
-
-- 上联与上传原图内容完全一致；
-- 下联主要形状都能追溯到照片事实；
-- 情节至少由两到三项照片证据支持；
-- 下联保留至少三组可辨认的原图颜色；
-- 标志性母题与照片结构融合；
-- 交界自然但没有覆盖上联；
-- 单张作品具有统一的近黑外围画布、克制四周边距和底部标题带；
-- 编号、日期和英文标题清楚、正确、唯一。
-
-最终作品应像一页来自失落航海档案的当代艺术画册：上方保留现实证据，下方让同一段空间关系以《奥德赛》的视觉记忆重新浮现。
-
-请直接输出最终完整双联画。完成后再用一至两句话说明：对应了哪个情节，照片中哪些证据支持判断，以及为何采用自然光、烛火光或阴天临界光方向。
-
-【完整口令｜复制到这里结束】
+How to use: Upload a photograph that you have the legal right to use, then copy the [FULL PROMPT] below. If the platform cannot complete “generate the lower panel + composite the original photograph + typeset the labels correctly” in one pass, the process must be split into two steps: first generate a completely text-free abstract lower panel, then use a reliable layout or compositing tool to assemble the final diptych.
 
 ====================
-【相较旧版 Skill 的完善】
+[FULL PROMPT | COPY FROM HERE]
 
-1. 从“凭感觉选故事”升级为至少两到三项照片证据共同支持。
-2. 从固定黑金或橙色气氛升级为原图调色板约束和三种曝光模式。
-3. 明确烛火必须照亮材质，新增近黑与死黑控制，避免大片黑洞。
-4. 新增木马、独眼巨人、卡律布狄斯、斯库拉、塞壬、织机、弓与冥界母题的适用条件。
-5. 新增反俗套检查，禁止龟壳式装饰中心、贴纸符号和廉价奇幻怪物。
-6. 强化“无字生成 → 确定性拼接 → 可靠排字 → 原图像素核验”的制作流程。
-7. 明确自然交界只能发生在下联内部，防止原照片被覆盖或改色。
-8. 新增 16 幅实际照片的证据推导案例，但明确禁止机械复制案例构图。
-9. 新增失败重做条件，使不能安装 Skill 的平台也能逐步修正结果。
+Using the photograph I uploaded in this turn as the sole evidence of reality, create a vertical diptych combining “original photography × an episode from Homer’s Odyssey × contemporary abstract art.” This is not a generic filter, film poster, illustrated photograph, mythological character illustration, or oil-painted version of the source. First understand the photograph, then identify the Odyssey episode that fits it most closely, and finally reconstruct the source photograph’s counts, distances, directions, light, color, and spatial pressure as an original abstract painting.
+
+This edition follows a “Clean Epic” direction. Epic force must come from scale, enclosure, paths, repetition, material weight, and near–far relationships—not from smoke, grime, grain, scratches, black-and-gold grading, or unmotivated debris. The image should be sparse but exact, structurally clear, and traceable to key evidence, with broad material areas carried primarily by readable midtones.
+
+1. FINAL STRUCTURE
+
+Output only one complete upper-and-lower diptych placed on a unified deep-black archival canvas:
+
+1. Upper half: the user-uploaded original photograph.
+2. Lower half: an original full-bleed abstract painting generated from the source evidence and the selected Odyssey episode.
+
+The two panels must connect directly, with no white divider or obvious border. The complete diptych must sit within a unified near-black archival canvas: retain a restrained outer margin approximately 2%–4% of the source photograph’s width on all sides, plus a black title band at the bottom approximately 8%–10% of the source photograph’s width. Use a warm near-black or charcoal close to #0F0F0E or #121211; do not use a blue-purple commercial-poster gradient. The black belongs only to the outer layout. It must not cover, darken, or alter the upper photograph, and it must not become an excuse for large areas of dead black in the lower panel.
+
+At the seam, the topmost part of the lower panel may use colors, luminance, direction, and texture already present along the source photograph’s bottom edge to form a short natural transition. That transition must occur entirely inside the lower panel and must never cover, soften, or alter any pixel of the upper photograph.
+
+2. THE UPPER PANEL MUST PRESERVE THE ORIGINAL PHOTOGRAPH
+
+The upper panel must use the uploaded original photograph directly. Do not replace it with an AI-generated look-alike, and do not:
+
+- crop, stretch, distort, or change its aspect ratio;
+- redraw or replace subjects, or modify people or animals;
+- change exposure, contrast, hue, saturation, or white balance;
+- add cinematic grading, grain, glow, smoke, candlelight, or any other effect;
+- add a title, number, watermark, border, or ornament.
+
+These prohibitions apply to text, borders, and decoration placed inside the photograph. The unified near-black archival canvas outside the photograph and the bottom title band remain required parts of the final layout.
+
+The original photograph is evidence of the real world and the narrative starting point of the work. If the platform cannot guarantee that it will remain unchanged, generate the lower panel separately and then composite it with the source using a deterministic image-layout tool.
+
+3. REQUIRED PHOTOGRAPH ANALYSIS BEFORE GENERATION
+
+Observe and record the following internally before generating. Do not place this analysis in the finished image:
+
+1. Primary subjects: people, animals, architecture, water, roads, trees, flames, doorways, vessels, or other objects.
+2. Counts and relationships: isolation, mutual gaze, enclosure, pursuit, gathering, waiting, repetition, passage, return, or pressure from both sides.
+3. Dominant direction: advance, backward glance, ascent, descent, traverse, rotation, convergence, escape, or stasis.
+4. Spatial structure: open sea, narrow passage, cave, palace, forest, island, threshold, abyss, fence, or occupied public space.
+5. Light structure: where light enters, the brightest area, shadow coverage, reflection path, and whether the light is natural, candlelit, or overcast/liminal.
+6. Color evidence: extract at least a dominant color, shadow color, midtone, highlight, and a real accent color present in the source.
+7. Emotional pressure: temptation, danger, forgetting, vigilance, prophecy, sacrifice, homecoming, solitude, pressure before a storm, or calm in the face of fate.
+
+4. SELECTING AN ODYSSEY EPISODE
+
+The selection must be supported by at least two or three pieces of photographic evidence. Do not select a sea voyage merely because the image contains water. Do not force a monster into the work for drama, and do not stack every famous Odyssey symbol into one image.
+
+Possible routes include:
+
+- ATHENA KEEPS WATCH: a solitary or vigilant animal, distant figure, elevated viewpoint, observer, or single eye-like point.
+- AFTER TROY: harbor, wall, masts, crowd, departing road, traces of war, or an immense timber structure.
+- LOTUS SHORE: slow-moving water, quiet gathering, drifting nodes, dreamlike stasis, forgetting, and lingering.
+- CYCLOPS CAVE: cave mouth, circular structure, giant single mass, one high-contrast eye ring, or small subjects surrounded by a larger form.
+- BAG OF WINDS: clouds, airflow, spirals, windblown fabric, radiating lines, and directions falling out of control.
+- CIRCE’S ISLAND: animals, garden, forest, ornate interior, seductive warm light, and altered identity.
+- SIREN OMENS: a flock of birds, repeated sound-like lines, a distant call, or a goal that cannot safely be reached.
+- BETWEEN TWO MONSTERS: a narrow passage, pressure from both sides, vortex, cave, or tendril-like paths.
+- CATTLE OF THE SUN: grouped animals, severe sunlight, golden fields, or an object that must not be touched.
+- DESCENT TO THE UNDERWORLD: flame, darkness, reflection on water, bare trees, underground space, smoke, or red-black tension.
+- CALYPSO’S ISLAND: an isolated person within a beautiful but inescapable place and an extended period of suspension.
+- HALL OF SUITORS: dense crowds, repeated seating, halls, banquets, or an occupied public space.
+- PENELOPE’S VIGIL / PENELOPE’S LOOM: windows, fabric, spiderwebs, clocks, empty rooms, prolonged waiting, and repeated weaving and unweaving.
+- THE HIDDEN KING: a doorway, back-facing figure, obscured person, unnoticed observer, or hidden return.
+- THE BOW TRIAL: arcs, tension lines, aligned targets, and sudden directional release.
+- THE LONG RETURN: coast, road, navigation marker, distant traveler, solitary vessel, or a clear route home.
+
+If no specific episode is sufficiently accurate, use a broader but truthful proposition such as THE WAITING HOUSE, A DANGEROUS PASSAGE, BEFORE THE HOMECOMING, or THE SEA REMEMBERS.
+
+5. ABSTRACT TRANSLATION OF THE LOWER PANEL
+
+The lower panel must not redraw the photograph at a smaller scale, nor may it be merely an oil-paint, watercolor, printmaking, or filter effect. Translate objects into relationships:
+
+- Water, road, railing, or ground → tidal color bands, navigational routes, arcs, or layered planes spanning the composition.
+- People or animals → small upright marks, ovals, seed-like nodes, isolated color fields, gazes, or directional coordinates.
+- Architecture and doorways → dark rectangles, repeated arches, vertical tower forms, layered planes, and occupied intervals.
+- Tree trunks, masts, railings, or crowds → irregularly spaced vertical lines, slender rods, point fields, and shifts in density.
+- Flame → broken ascending bands, dark-red fissures, bone-white heated edges, bronze nodes, and smoke-black paths.
+- Vortex, giant mouth, or dangerous strait → incomplete rings, curved clamps, or consuming but textured dark apertures.
+- Eye or observer → one high-contrast focal point, ring structure, or aperture surrounded by subordinate elements.
+- Reflection → shortened, faded, displaced, or broken vertical echoes.
+- Group → repeated modules with changing density; never arrange them in a mechanically regular grid.
+- Light and shadow → diagonal cuts, elongated light bands, fractured grids, or tilted structures.
+
+For animals, preserve only their real count, spacing, posture, gaze, or direction. Do not enlarge shells, fur, eyes, claws, or complete silhouettes into a decorative centerpiece. Unless both the photograph and the selected episode make it indispensable, a “central shell-pattern ornament” is a failed result.
+
+6. ICONIC ODYSSEY MOTIFS
+
+Each work may include one to three motifs strictly associated with the selected episode, but they must be fused with structures already present in the photograph rather than floating on top like stickers:
+
+- Trojan Horse: a colossal, rough, ribbed timber mass or gate-like silhouette; appropriate to departure, aftermath of war, harbors, and immense architectural structures.
+- Cyclops: one gigantic incomplete eye ring, cave aperture, or single high-contrast point.
+- Charybdis: a consuming vortex, sinking circulation, and paths being dragged inward.
+- Scylla: six attack vectors or toothed wedges of unequal height and spacing, pressing inward from the side; do not depict a complete monster.
+- Sirens: repeated sound-like fine lines, birdlike fragments, or a distant lure point; do not depict fantasy siren women.
+- Penelope’s loom: warp and weft, repeatedly woven and unwoven threads, a center of waiting, and an incomplete grid.
+- Bow trial: a monumental arc, tensile force, aligned targets, and sudden directional release.
+- Underworld: a descending path, dark river, incomplete doorway, smoke lit by fire, stone, and bone-white heated edges.
+
+Do not add Greek temples, helmets, armor, spears, tridents, warships, or multiple conflicting famous symbols without evidence.
+
+7. COLOR MUST CORRESPOND TO THE SOURCE
+
+The lower panel’s palette is not a fixed template. Approximately 70%–85% of the image should come from the source photograph’s dominant colors, midtones, and shadow colors; approximately 10%–25% should come from its highlights; and the mythic accent should generally occupy no more than 5%–10%. If the source contains a vivid red, orange, green, gold, or blue, prioritize that color as a navigation mark, danger signal, eye point, fissure, or light source.
+
+Do not force every photograph into blue-orange or black-and-gold grading to make it feel “epic.” Daylight scenes must preserve sky, water, stone, vegetation, and atmospheric distance. Interiors and night scenes may use candlelight, but must still retain the source photograph’s color identity.
+
+8. CANDLELIGHT IS AN IMPORTANT NARRATIVE SOURCE, NOT AN ORANGE FILTER
+
+When the scene permits, introduce an “Odyssey ember”: beeswax gold, brazier orange, burnt umber, dark red, or oxidized bronze emerging from a source-justified doorway, fissure, arch, rope knot, timber rib, node, gap in smoke, or reflection on water.
+
+Candlelight must illuminate nearby material so that the viewer can read stone, wood, rope, smoke, fabric, metal, or water reflection. It must not appear as a few orange dots floating in a field of black. Use one principal light source and no more than three faint echoes, with believable falloff.
+
+Choose one exposure mode according to the photograph:
+
+1. Firelit mode: caves, palaces, the Underworld, the waiting house, and night thresholds. Preserve readable stone, wood, smoke, and water midtones; unless the source itself contains an equivalent black field, keep near-black coverage preferably below 25% and fully dead-black coverage preferably below 8%.
+2. Natural-light mode: coasts, open water, islands, roads, gardens, and daylight travel. Preserve pale sky, steel-blue water, sunlit stone, natural greens, and atmospheric perspective. Embers may appear only as small narrative punctuation.
+3. Overcast/liminal-light mode: mist, forest, glass reflections, waiting, and suspended time. Maintain broad readable midtones and one controlled opening of light.
+
+If the source is already high-key and cool, and adding candlelight would clearly break its color logic, omit candlelight. Do not compensate by creating dead black.
+
+9. COMPOSITIONAL DENSITY OF THE LOWER PANEL
+
+The lower panel must form a complete visual world:
+
+- at least one dominant large-scale structure;
+- two to four groups of medium-scale rhythm;
+- a small number of tiny nodes establishing direction and depth;
+- preservation of the source photograph’s asymmetrical relationships;
+- a clear visual entry, a zone of tension or danger, and an exit direction;
+- every area participates in the narrative, while meaningful pauses and breathing room remain possible.
+
+Do not center everything, distribute elements evenly, make the composition mechanically symmetrical, or place one undersized form in the middle while leaving the rest of the field inert.
+
+Also do not fill the image with decorative smoke, ash, splatter, distressed scratches, fake film damage, dense gravel, or excessive grain. Real materials may have texture, but that texture must be restrained, clean, and serve the weight of stone, wood, metal, fabric, water, and paper.
+
+10. JUDGMENT REFERENCES DERIVED FROM 16 ACTUAL WORKS
+
+The following cases demonstrate how to infer narrative and form from photographic evidence. They are not fixed templates. Every new photograph must be analyzed afresh; do not mechanically copy these compositions.
+
+1. Bridge, water, straight railing, and distant vehicles → THE LONG RETURN. Translate the railing into a homeward navigation line, the bridge beam into a threshold of fate, and the warm reflection on water into a return beacon; combine natural light with a restrained ember.
+2. White walls, layered eaves, bare branches, and a doorway → PENELOPE’S VIGIL. Translate the stepped eaves into loom-like tiers, the branches into unfinished warp and weft, and place a small amount of beeswax gold inside the doorway; use overcast/liminal light.
+3. Red-brick hall, repeated arches, steps, and surrounding trees → HALL OF SUITORS. Translate repeated doorways and steps into the rhythm of an occupied hall, using dense nodes to signify the suitors; let candlelight reveal stone rather than sink into black.
+4. Night temple, lanterns, dense points of fire, and a deep-blue sky → DESCENT TO THE UNDERWORLD. Translate the fire points into a descending ritual, smoke columns, and the entrance to a dark river; preserve the deep blue and wood-brown while fire reveals smoke, timber, and stone.
+5. Stream, rocks, two turtles, and small floating points → LOTUS SHORE. Translate the two turtles only into two seed-like coordinates, the water flow into slow color bands, and the floating points into nodes of forgetting; do not enlarge shell patterns.
+6. Coast, rocks, red railing, and three people → BETWEEN TWO MONSTERS. Translate the red railing into a danger boundary, the opposing rocky shores into the pressure of Scylla and the vortex of Charybdis, and the people into passage nodes; natural sea light remains dominant.
+7. Forking rail tracks, platform, train, and yellow signal → A DANGEROUS PASSAGE. Translate the rails into branching paths of fate, the yellow light into the sole navigation node, and the overhead lines into a tensile web; use overcast/liminal light.
+8. Forest, three pavilions, and one isolated seated figure → CIRCE’S ISLAND. Translate the repeated pavilion roofs into seductive island nodes and the forest into a beautiful enclosed place of lingering; use natural green light with a restrained warm-gold accent.
+9. Fountain at the center of a rock field, circular water column, and high-contrast focal point → CYCLOPS CAVE. Translate the fountain and stone ring into one colossal incomplete eye ring and cave light shaft; do not depict a complete giant.
+10. Children by the sea, distant boat, long breakwater, and enormous horizontal structure → AFTER TROY. Translate the breakwater and vessel into the ribbed remains of a colossal timber horse and the direction of departure; preserve the pale sky and steel-blue sea.
+11. Spiderweb, single center, and blurred green background → PENELOPE’S LOOM. Translate the web into a system repeatedly woven and unwoven, retaining only one restrained golden knot of waiting at the center; do not depict a spider.
+12. Clock tower, glass reflection, sloped corridor, and enclosing branches → THE WAITING HOUSE. Translate the tower into a small marker of time, the glass layers into repeated transparent planes of waiting, and the diagonal light into a beeswax passage.
+13. Autumn woods, foreground leaves, one nearby person, and four distant walkers → LOTUS SHORE. Preserve the one-to-four count relationship, translate the fallen leaves into drifting membrane layers, and the people into nodes of lingering and departure; use natural autumn light.
+14. Squirrel descending a tree trunk, a single vigilant gaze, and a broad field of bark → ATHENA KEEPS WATCH. Make the trunk the dominant vertical body and retain only one observing eye-point and the downward direction; do not depict a complete squirrel or owl.
+15. Pale historic building, central tower, repeated arches, and dense vehicles → HALL OF SUITORS. Make the tower an occupied axis of power, translate the vehicles into irregular dense modules, and introduce localized beeswax light inside the arches; preserve the source’s pale gray-pink identity.
+16. Flame, charcoal, orange-red heated edges, and black background → DESCENT TO THE UNDERWORLD. Translate the flames into ascending membrane bands and a descending dark river, with an incomplete doorway marking the threshold of Hades; fire must reveal charcoal, smoke, and rock, while dead black remains controlled.
+
+11. ENGLISH LABELS AND RELIABLE TYPESETTING
+
+First generate a completely text-free abstract lower panel. Then use a reliable typesetting or compositing tool to place both panels on the unified near-black canvas and add the following to the bottom black title band:
+
+1. One concise archive number, for example NO. 015.
+2. One date, for example 23 AUG 2026.
+3. One correctly spelled English episode title of two to four words.
+
+Do not add actors, directors, film titles, locations, camera settings, extra copy, watermarks, or pseudo-text. Set the number and date in smaller gray-gold or warm gray type, and set the English episode title in clear bone white. Align all three to the left using the same margin. Verify every character of the title before submission.
+
+12. FAILURE CHECKS AND CONDITIONS FOR REGENERATION
+
+If any of the following occurs, regenerate only the lower panel. Do not alter the upper photograph:
+
+- the lower panel merely repaints the source photograph or applies a painterly filter;
+- its principal colors are unrelated to the source;
+- it contains large areas of dead black and its candlelight reveals no material;
+- smoke, grime, grain, scratches, or unmotivated debris make the image dirty;
+- it contains only one isolated central icon while the rest of the field is unorganized;
+- its mythic symbol looks like a sticker, souvenir, or video-game monster;
+- a turtle shell, eye, fur, or other animal detail has been enlarged into a kitsch ornament;
+- unrelated motifs such as the Trojan Horse, Cyclops, vortex, and temple are stacked together;
+- the upper panel has been cropped, redrawn, color-graded, or covered;
+- the title is misspelled or contains gibberish, pseudo-text, or conflicting titles.
+
+13. FINAL CHECK
+
+Before submission, confirm that:
+
+- the upper panel is exactly identical to the uploaded original photograph;
+- every principal form in the lower panel is traceable to photographic evidence;
+- the chosen episode is supported by at least two or three pieces of evidence;
+- at least three recognizable groups of source colors remain in the lower panel;
+- the iconic motif is fused with the source structure;
+- the seam feels natural without covering the upper panel;
+- the single finished work uses one unified near-black outer canvas, restrained margins, and one bottom title band;
+- the archive number, date, and English title are clear, correct, and unique.
+
+The final work should resemble a page from a lost maritime archive recast as a contemporary art book: the upper panel preserves reality as evidence, while the lower panel lets the same spatial relationships resurface as a visual memory of the Odyssey.
+
+Output the final complete diptych directly. Afterward, add only one or two sentences stating which episode was selected, which evidence in the photograph supports that choice, and why the work uses natural light, firelight, or overcast/liminal light.
+
+[FULL PROMPT | COPY TO HERE]
 
 ====================
-【常用修正口令】
+[IMPROVEMENTS OVER THE PREVIOUS SKILL]
 
-如果下联太黑：
-重新生成下联。保留阴影中的石、木、烟、水和金属细节，让烛火照亮真实体积；近黑面积减少到约 30% 以下，完全死黑减少到约 12% 以下。不要改变上联照片。
+1. Upgraded from selecting a story “by instinct” to requiring support from at least two or three pieces of photographic evidence.
+2. Replaced fixed black-and-gold or orange atmosphere with source-palette constraints and three exposure modes.
+3. Required candlelight to reveal material, with new near-black and dead-black controls to prevent large black voids.
+4. Added conditions for using the Trojan Horse, Cyclops, Charybdis, Scylla, Sirens, loom, bow, and Underworld motifs.
+5. Added an anti-kitsch check prohibiting shell-pattern centerpieces, sticker-like symbols, and cheap fantasy monsters.
+6. Strengthened the workflow: “text-free generation → deterministic compositing → reliable typesetting → source-pixel verification.”
+7. Clarified that any natural seam transition must occur entirely inside the lower panel, preventing the source photograph from being covered or recolored.
+8. Added evidence-inference examples from 16 actual photographs, while explicitly prohibiting mechanical copying of their compositions.
+9. Added failure and regeneration conditions so that platforms unable to install the Skill can still correct the result step by step.
 
-如果颜色与原图不一致：
-重新提取原图主色、阴影、中间调、高光和强调色。下联 70%—85% 使用原图主色系统，删除无来源的蓝橙、黑金或荧光色。
+====================
+[COMMON CORRECTION PROMPTS]
 
-如果画面太写实：
-删除完整人物、动物、建筑和风景轮廓，只保留数量、间距、方向、孔洞、路径、色带、节点、压力和光线关系。
+If the lower panel is too dark:
+Regenerate the lower panel. Preserve detail in stone, wood, smoke, water, and metal within the shadows, and let candlelight reveal real volume. Reduce near-black coverage to approximately 30% or less and fully dead-black coverage to approximately 12% or less. Do not alter the upper photograph.
 
-如果神话元素像贴纸：
-删除装饰性符号。把所选母题重新融合进原图已有结构，通过尺度、数量、包围、左右夹击、旋涡、织线或弓形张力表达。
+If the colors do not match the source:
+Re-extract the source photograph’s dominant colors, shadows, midtones, highlights, and accent. Use the source color system across 70%–85% of the lower panel, and remove unmotivated blue-orange, black-and-gold, or fluorescent color.
 
-如果画面太空：
-建立一个大型主导结构、两到四组中型节奏和少量小节点，让画面拥有进入点、张力区域与离开方向。
+If the image is too literal:
+Remove complete silhouettes of people, animals, architecture, and landscape. Preserve only counts, spacing, directions, apertures, routes, color bands, nodes, pressure, and light relationships.
 
-如果龟壳或动物元素显得俗气：
-删除完整壳纹、眼睛、毛皮或爪子装饰，只保留动物真实数量、间距、姿态与方向，将其转为克制的种子形节点或小型坐标。
+If the mythic element looks pasted on:
+Remove decorative symbols. Reintegrate the selected motif into structures already present in the source by expressing it through scale, count, enclosure, pressure from both sides, vortex, woven lines, or bow-like tension.
 
-如果上联照片被改变：
-撤销对上联的一切生成式处理，重新使用原始照片像素。只生成下联，最后通过确定性拼图工具拼接。
+If the composition feels too empty:
+Establish one dominant large structure, two to four groups of medium rhythm, and a small number of tiny nodes so the image has an entry, a tension zone, and an exit direction.
 
-如果标题错误：
-删除生成图中的全部文字，先保留无字画面，再用可靠排版工具加入唯一的编号、日期和正确英文情节名。
+If a turtle shell or animal element looks kitsch:
+Remove complete shell patterns, eyes, fur, or claw ornaments. Preserve only the animal’s real count, spacing, posture, and direction, translating them into restrained seed-like nodes or small coordinates.
+
+If the upper photograph has been altered:
+Undo every generative treatment applied to the upper panel and restore the original photograph’s pixels. Generate only the lower panel, then assemble the result with a deterministic compositing tool.
+
+If the title is wrong:
+Remove all generated text from the image. Keep the artwork text-free first, then use a reliable typesetting tool to add one archive number, one date, and one correctly spelled English episode title.
+
+====================
+
+作者账号：
+抖音：Starryear 年
+小红书：Starryear 年
+公众号：Starryear
+微博：Starryear
+
+作品网站：
+https://github.com/Starryear/Starryear-Odyssey
+
+====================
+【发布作品时】
+
+Skill拥有版权，使用自己的照片生成并公开发布作品时，请在标题、正文或评论中标注：
+使用 Skill：Starryear-Abstract-Quartet
+
+也欢迎在平台支持的情况下 @Starryear 或 @Starryear 年，让我能够看到你的作品。标注和 @ 是对原创方法与作者最友好的支持。
+
+====================
+【版权与使用说明】
+
+1. 本分享包中的 Skill 文件、完整口令、方法文字、网站内容、示例作品及 Starryear 原创摄影，版权及相关权益归 Starryear 所有。
+2. 欢迎个人学习、体验，并使用自己拥有合法权利的照片进行创作和非商业分享。
+3. 未经书面授权，不得转载或商用 Starryear 的示例摄影和示例作品；不得将本 Skill、口令或方法改名后重新打包、售卖、用于付费课程、素材包或冒充原创发布。
+4. 如果照片由他人拍摄，或包含受限制的人像、商标、建筑、展览和艺术品，请先取得必要授权。
+5. 使用 AI 平台生成的作品，还应遵守所使用平台的条款及所在地法律法规。商业项目、品牌合作、出版和大规模传播建议提前联系授权。
+6. 版权及商务授权联系：Starryear@outlook.com
+
+====================
+【关于 Starryear】
+
+🗞️【分享 AI 前沿技能与审美解构并赋能纪实影像】
+🧾 年｜风光影像摄影师｜视觉解构艺术家
+🪄 纪实拍摄 × 生成艺术 × 转译重构
+📓「摄影作品均原创，未经授权禁止转载商用」
+📜 Starryear@outlook.com（Starryear/年｜全网同名）
+
